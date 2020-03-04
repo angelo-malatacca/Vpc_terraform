@@ -10,7 +10,7 @@
 | terrafom plan		 | Generate and show an execution plan 			|
 | terraform apply 	 | Builds or changes infrastructure 			|
 	
-You will be asked to choose the region where deploy the infrastructure, for example ```eu-central-1``
+You will be asked to choose the region where deploy the infrastructure, for example ``eu-central-1``
 
 ### To destroy the resources
 
