@@ -17,3 +17,5 @@ You will be asked to choose the region where deploy the infrastructure, for exam
 | Command 			| Description							   |
 |-------------------|------------------------------------------|
 | terraform destroy | Destroy Terraform-managed infrastructure |
+
+### For other commands check: https://www.terraform.io/docs/commands/index.html
